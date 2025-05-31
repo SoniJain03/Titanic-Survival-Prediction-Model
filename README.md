@@ -28,7 +28,8 @@ It's is loaded using `joblib`, and the interface is built with `Streamlit`.
 - **Streamlit** (for the web UI)
 
 
-
+## Note: 
+All dependencies required to run this app are listed in requirements.txt. You can install them using pip install -r requirements.txt
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
